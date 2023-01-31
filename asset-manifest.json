@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/introReact_OsvaldoMartinez/static/css/main.62dbc0ce.css",
+    "main.js": "/introReact_OsvaldoMartinez/static/js/main.cf4e546e.js",
+    "index.html": "/introReact_OsvaldoMartinez/index.html",
+    "main.62dbc0ce.css.map": "/introReact_OsvaldoMartinez/static/css/main.62dbc0ce.css.map",
+    "main.cf4e546e.js.map": "/introReact_OsvaldoMartinez/static/js/main.cf4e546e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62dbc0ce.css",
+    "static/js/main.cf4e546e.js"
+  ]
+}
